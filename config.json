@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "token 1",
+    "e60fefefa37eebf0feac3e1c41220d6a7672299a6f715d81b9fff9661317cb49f5a37ac979c5efcdaa5d4",
     "token 2",
     "token 3"
   ],
-  "secret_code": "IDM secret code",
+  "secret_code": "agbaojhox",
   "delete_all_notify": false,
   "ru_captcha_key": "",
   "ignored_members": [],
