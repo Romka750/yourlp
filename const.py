@@ -1,5 +1,5 @@
 __version__ = '1.7.1'
-__author__ = 'lordralinc'
+__author__ = '[vk.com/iravenz|Ravenz]'
 
 DEFAULT_DATABASE = {
   "tokens": [],
